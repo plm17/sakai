@@ -16,8 +16,6 @@ import org.apache.wicket.model.CompoundPropertyModel;
 import org.apache.wicket.model.IModel;
 import org.apache.wicket.model.LoadableDetachableModel;
 
-import com.steve.model.Thing;
-
 import org.sakaiproject.example.model.Thing;
 
 /**
